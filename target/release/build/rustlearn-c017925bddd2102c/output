@@ -1,0 +1,41 @@
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CXX_x86_64-unknown-linux-gnu = None
+CXX_x86_64_unknown_linux_gnu = None
+HOST_CXX = None
+CXX = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CXXFLAGS_x86_64-unknown-linux-gnu = None
+CXXFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+DEBUG = Some("false")
+running: "c++" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/build/rustlearn-c017925bddd2102c/out/dependencies/libsvm/svm.o" "-c" "dependencies/libsvm/svm.cpp"
+cargo:warning=dependencies/libsvm/svm.cpp: In function ‘void print_string_stdout(const char*)’:
+cargo:warning=dependencies/libsvm/svm.cpp:41:45: warning: unused parameter ‘s’ [-Wunused-parameter]
+cargo:warning=   41 | static void print_string_stdout(const char *s)
+cargo:warning=      |                                 ~~~~~~~~~~~~^
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+running: "ar" "crs" "/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/build/rustlearn-c017925bddd2102c/out/libsvm.a" "/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/build/rustlearn-c017925bddd2102c/out/dependencies/libsvm/svm.o"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+cargo:rustc-link-lib=static=svm
+cargo:rustc-link-search=native=/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/build/rustlearn-c017925bddd2102c/out
+TARGET = Some("x86_64-unknown-linux-gnu")
+cargo:rustc-link-lib=stdc++

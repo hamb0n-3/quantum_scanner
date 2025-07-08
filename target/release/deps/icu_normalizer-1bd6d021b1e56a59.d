@@ -1,0 +1,11 @@
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/libicu_normalizer-1bd6d021b1e56a59.rmeta: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/properties.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/provider.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/libicu_normalizer-1bd6d021b1e56a59.rlib: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/properties.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/provider.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/icu_normalizer-1bd6d021b1e56a59.d: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/properties.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/provider.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/error.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/properties.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/provider.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/icu_normalizer-1.5.0/src/uts46.rs:

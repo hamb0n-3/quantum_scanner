@@ -1,0 +1,1 @@
+{"rustc":13226066032359371072,"features":"[]","declared_features":"[\"nightly\"]","target":6299320092271295420,"profile":13595683847583916328,"path":3055890352059403735,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/crossbeam-3600f692e8136f40/dep-lib-crossbeam","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}

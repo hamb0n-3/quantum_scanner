@@ -1,0 +1,12 @@
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/libcolored-abfbd7fa1e6f7167.rmeta: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/color.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/control.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/style.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/customcolors.rs
+
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/libcolored-abfbd7fa1e6f7167.rlib: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/color.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/control.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/style.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/customcolors.rs
+
+/home/kali/ToolBox/Scripts/Networking/quantum_scanner/target/release/deps/colored-abfbd7fa1e6f7167.d: /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/lib.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/color.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/control.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/error.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/style.rs /home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/customcolors.rs
+
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/color.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/control.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/error.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/style.rs:
+/home/kali/.cargo/registry/src/github.com-25cdd57fae9f0462/colored-2.2.0/src/customcolors.rs:
